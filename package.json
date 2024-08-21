@@ -1,0 +1,8 @@
+{
+  "name": "SFTP ",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^10.1.8",
+    "ssh2-sftp-client": "^11.0.0"
+  }
+}
